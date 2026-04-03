@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "BANQUET BANG",
+  "base_artist": "MAZZEL",
+  "createdAt": "2026-04-03T14:30:05.290643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BANQUET BANG",
+      "artist": "MAZZEL",
+      "has_synced": true,
+      "path": "select/01_BANQUET_BANG_MAZZEL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BANQUET BANG",
+      "artist": "MAZZEL",
+      "has_synced": false,
+      "path": "select/pl_01_BANQUET_BANG_MAZZEL.txt"
+    }
+  ]
+}
